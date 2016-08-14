@@ -1,0 +1,2 @@
+# blueconky
+My .conkyrc configuration 
