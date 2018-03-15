@@ -21,6 +21,10 @@ uppercase no
 cpu_avg_samples 2
 override_utf8_locale no
 
+#Corrects flickering on Debian 9
+minimum_size 200 200
+maximum_width 200
+
 
 TEXT
 ${font sans-serif:bold:size=8}${color 106DEC}SYSTEM ${hr 2}
